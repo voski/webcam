@@ -1,2 +1,1 @@
-[Live][url]
-[url]:voski.io/webcam
+[Live](voski.io/webcam)
