@@ -1,1 +1,1 @@
-[Live](voski.io/webcam)
+[Live](http://voski.io/webcam)
