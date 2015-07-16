@@ -1,2 +1,2 @@
 [Live][url]
-[url]:voski.github.io/webcam
+[url]:voski.io/webcam
