@@ -1,0 +1,9 @@
+#player {
+  width: 100vw;
+  max-height: 100vh;
+}
+
+body {
+  /*padding: 0;*/
+  margin: 0;
+}
